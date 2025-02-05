@@ -1,0 +1,18 @@
+# Django framework
+Django>=4.2,<4.3
+
+# Django REST framework for building APIs (optional)
+djangorestframework>=3.14,<3.15
+
+# Gunicorn is a WSGI HTTP server for UNIX (optional, useful for deployment)
+gunicorn>=20.1,<20.2
+
+# Database adapter for PostgreSQL (if using PostgreSQL)
+psycopg2>=2.9,<2.10
+
+# Load environment variables from a .env file (optional)
+python-dotenv>=1.0,<2.0
+
+# Any additional packages
+# For example, if you are using Pillow for image processing in your models:
+Pillow>=9.0,<10.0
