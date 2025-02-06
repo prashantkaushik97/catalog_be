@@ -8,8 +8,8 @@ You can run this backend in two ways:
 
 ### 1. Clone and Install Dependencies
    Clone this repository:
-      
-      git clone https://github.com/yourusername/catalog_be.git
+   
+      git clone https://github.com/prashantkaushik97/catalog_be/
       cd catalog_be
    
    Install dependencies:
