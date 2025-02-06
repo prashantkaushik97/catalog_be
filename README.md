@@ -13,6 +13,7 @@ You can run this backend in two ways:
    Install dependencies:
       pip install -r requirements.txt
   python manage.py runserver 0.0.0.0:8000
+  
   If you get an error for running on port 8000, change the port to any available one
 
 ### 2. Run with Docker
